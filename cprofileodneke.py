@@ -9,4 +9,4 @@ import cProfile
 import neke
 
 if __name__ == '__main__':
-    cProfile.run('neke.funkcija()')
+    cProfile.run('neke.funkcija()1')
