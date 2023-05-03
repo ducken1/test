@@ -4,7 +4,8 @@ This is a module-level docstring that describes the purpose of the neke module.
 """
 
 print("hello world!")
-#print("hello world!2")
+print("hello world!2")
+#print("hello world!233")
 
 
 def funkcija():
