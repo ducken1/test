@@ -7,10 +7,7 @@ print("hello world!")
 print("hello world!2")
 print("hello world!3")
 print("hello world!431")
-#print("hello world!233")
-#123132#jrjr
-#dhd
-#43zz3
+
 
 def funkcija():
     pass
