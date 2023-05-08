@@ -7,6 +7,9 @@ print("hello world!")
 print("hello world!2")
 print("hello world!3")
 print("hello world!431")
+print("hello world!4321")
+#print("hello world!233")
+
 
 
 def funkcija():
